@@ -69,7 +69,7 @@ Utilize os prompts para criar um podcast de forma automatizada
 ## 👨‍💻 Expert
 
 <p>
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMichael Santos<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/michaelmdrs">
